@@ -1,2 +1,6 @@
 git checkout -b local_branch1
 
+git add .
+git commit -m "Create local_branch1"
+
+git push origin local_branch1
